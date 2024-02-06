@@ -325,8 +325,8 @@ export const seoData: SEODataType = {
   title: "Mujahid Shaik",
   description: "A passionate Web Developer and Blockchain Developer.",
   author: "Mujahid Shaik",
-  // image:
-  //   "https://drive.google.com/file/d/1cs4OPKH6L95IXrCPPZialoS81IWn9IWt/view?usp=sharing",
+  image:
+    "https://drive.google.com/file/d/1cs4OPKH6L95IXrCPPZialoS81IWn9IWt/view?usp=sharing",
   keywords: [
     "Mujahid",
     "Mujahid Shaik",
